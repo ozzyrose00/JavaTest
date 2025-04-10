@@ -5,5 +5,6 @@ public class TestPrint {
 		System.out.println("DDDDDDDDDDDDDDDDDDD");
 		System.out.println("DDDDDDDDDDDDDDDDDDD");
 		System.out.println("DDDDDDDDDDDDDDDDDDD");
+		System.out.println("%%%%%%%%%%%%%%%%%%%%%%%%%%%%%");
 	}
 }
