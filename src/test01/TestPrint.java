@@ -8,5 +8,6 @@ public class TestPrint {
 		System.out.println("%%%%%%%%%%%%%%%%%%%%%%%%%%%%%");
 		System.out.println("dfsdfsdfsdfsdfd ");
 		System.out.println("20250422");
+		System.out.println("20250422");
 	}
 }
