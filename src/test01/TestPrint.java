@@ -6,5 +6,7 @@ public class TestPrint {
 		System.out.println("DDDDDDDDDDDDDDDDDDD");
 		System.out.println("DDDDDDDDDDDDDDDDDDD");
 		System.out.println("%%%%%%%%%%%%%%%%%%%%%%%%%%%%%");
+		System.out.println("dfsdfsdfsdfsdfd ");
+		System.out.println("20250422");
 	}
 }
