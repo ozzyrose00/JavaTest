@@ -9,5 +9,6 @@ public class TestPrint {
 		System.out.println("%%%%%%%%%%%%%%%%%%%%%%%%%%%%%");
 		System.out.println("20250422");
 		System.out.println("20250422_1");
+		System.out.println("20250422_2");
 	}
 }
